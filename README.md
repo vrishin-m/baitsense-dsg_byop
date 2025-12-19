@@ -18,6 +18,8 @@ pip install torch
 
 pip install tensorflow
 
+pip install opencv
+
 pip install joblib
 
 pip install deepface
@@ -26,3 +28,4 @@ pip install sentencetransformer
 
 pip install xgboost 
 
+pip install easyocr
