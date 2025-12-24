@@ -29,3 +29,5 @@ pip install sentencetransformer
 pip install xgboost 
 
 pip install easyocr
+
+pip install ultralytics
